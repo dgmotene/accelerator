@@ -45,8 +45,8 @@ function App() {
 
       {/* Supporting value statement. */}
       <p className="tagline">
-        Building the Next Generation of Cloud Engineers.
-      </p>
+  Shipped by CodePipeline — AWS Graduate Cloud Skills Accelerator.
+</p>
 
     </div>
   );
